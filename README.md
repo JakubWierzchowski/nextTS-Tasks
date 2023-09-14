@@ -1,5 +1,5 @@
-Projekt umożliwia użytkownikom tworzenie i zarządzanie listą zadań.
+The project allows users to create and manage a task list.
 
-Aplikacja oferuje wiele funkcji, takich jak dodawanie, usuwanie i edytowanie zadań, a także sortowanie ich według różnych kryteriów. Użytkownicy mają możliwość tworzenia kont i logowania się, co pozwala na przechowywanie listy zadań na serwerze i synchronizowanie jej między różnymi urządzeniami.
+The application offers various features such as adding, deleting, and editing tasks, as well as sorting them by different criteria. Users have the option to create accounts and log in, allowing them to store the task list on the server and synchronize it across different devices.
 
-Aby uruchomić projekt należy pobrać projekt i uruchomić npm install. Aplikacja wykorzystuje postgresql, oparty na stronie Railway.
+To run the project, you need to download the project and run "npm install." The application utilizes PostgreSQL and is hosted on the Railway platform.
